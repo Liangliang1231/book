@@ -1,0 +1,1 @@
+打開 index.html 即可瀏覽電子書網站。cover.png 是封面圖片，請和 index.html 放在同一個資料夾。
